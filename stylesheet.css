@@ -19,7 +19,7 @@ main{
     border-radius: 13%;
 }
 h1{
-    background-image: linear-gradient(rgb(253, 235, 212), rgb(251, 207, 150));
+    background-image: linear-gradient(rgb(253, 235, 212), rgb(157, 132, 98));
     padding: 10px;
     width: 90%;
     border: 3.5px solid black;
@@ -52,7 +52,8 @@ tbody{
     padding-right: 50px;
 }
 .row-description{
-    background-image: linear-gradient(rgb(197, 196, 196),rgb(223, 209, 209) )
+    background-image: linear-gradient(rgb(186, 185, 185),rgb(223, 209, 209) );
+    border: 3px solid black
 }
 .row-1-content{
     border-bottom: 2px solid black
