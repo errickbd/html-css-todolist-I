@@ -1,0 +1,106 @@
+body{
+    background-image: linear-gradient(rgb(253, 235, 212), rgb(246, 195, 129));
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+
+}
+main{
+    background-image: linear-gradient(rgb(231, 231, 231),rgb(223, 209, 209) );
+    width: 600px;
+    text-align: center;
+    justify-content: center;
+    border: 3.5px solid black;
+    padding: 50px;
+    padding-top:25px;
+    border-radius: 13%;
+}
+h1{
+    background-image: linear-gradient(rgb(253, 235, 212), rgb(251, 207, 150));
+    padding: 10px;
+    width: 90%;
+    border: 3.5px solid black;
+    border-radius: 5%;
+}
+#table-title{
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+#table-body{
+    
+    justify-content: center;
+    justify-items: center;
+
+}
+thead{
+    font-size: large;
+
+}
+tbody{
+    background-image: linear-gradient(rgb(231, 231, 231),rgb(223, 209, 209) );
+}
+.due-date{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.tasks{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.row-description{
+    background-image: linear-gradient(rgb(197, 196, 196),rgb(223, 209, 209) )
+}
+.row-1-content{
+    border-bottom: 2px solid black
+}
+.row-2-content{
+    border-bottom: 2px solid black
+}
+.row-3-content{
+    border-bottom: 2px solid black
+}
+.row-4-content{
+    border-bottom: 2px solid black
+}
+.row-5-content{
+    border-bottom: 2px solid black
+}
+.row-1:hover{
+    background-color: rgb(204, 253, 238);
+}
+.row-2:hover{
+    background-color: rgb(204, 253, 238);
+}
+.row-3:hover{
+    background-color: rgb(204, 253, 238);
+}
+.row-4:hover{
+    background-color: rgb(204, 253, 238);
+}
+.row-5:hover{
+    background-color: rgb(204, 253, 238);
+}
+.submit-button-add{
+    background-image: linear-gradient(rgb(253, 235, 212), rgb(246, 195, 129));
+    padding: 8px;
+    margin-top: 20px;
+}
+.submit-button-remove{
+    background-image: linear-gradient(rgb(253, 235, 212), rgb(246, 195, 129));
+    padding: 8px;
+    margin-top: 40px;
+    margin-left: 8px;
+}
+.submit-button-remove:hover{
+    background-color: rgb(252, 135, 93);
+}
+.submit-button-add:hover{
+    background-color: rgb(144, 251, 215);
+}
+/* #table{
+    
+} */
